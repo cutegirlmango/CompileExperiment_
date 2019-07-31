@@ -1,1 +1,2 @@
-# CompileExperiment_
+# CompileExperiment_MyParserLL1
+本程序是一个简单的语法分析器，实现预测分析法的整个过程框架，包括求Vt集和Vn集，求First集和Follow集，求文法的LL1预测分析表，以及求句子的预测分析过程。
